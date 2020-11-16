@@ -6,7 +6,7 @@ public class Hello {
      System.out.println("Hello World");  
 		
 		for(int i=0;i<=5;i++)
-	System.out.println("First Build on commit  "); 	  
+	System.out.println("Ngrok commit  "); 	  
 		 
 	}
 
